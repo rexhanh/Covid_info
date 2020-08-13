@@ -12,8 +12,8 @@ Two line charts show historical cases, new case, deaths and new deaths.
 A table shows cases, death, and recovered of each state.
 
 A detailed view of a state cases, deaths, and recovered. It also shows two line charts of historical cases, new cases, death and new deaths.
-![Demo0](Demo/demo0.png) ![Demo1](Demo/demo1.png) ![Demo0](Demo/demo2.png)
-![Demo0](Demo/demo3.png) ![Demo0](Demo/demo4.png)
+![Demo0](Demo/Demo0.png) ![Demo1](Demo/Demo1.png) ![Demo0](Demo/Demo2.png)
+![Demo0](Demo/Demo3.png) ![Demo0](Demo/Demo4.png)
 
 
 Charts are from [here](https://github.com/danielgindi/Charts).
