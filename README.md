@@ -12,8 +12,11 @@ Two line charts show historical cases, new case, deaths and new deaths.
 A table shows cases, death, and recovered of each state.
 
 A detailed view of a state cases, deaths, and recovered. It also shows two line charts of historical cases, new cases, death and new deaths.
+![Demo0](Demo/demo0.png) ![Demo1](Demo/demo1.png) ![Demo0](Demo/demo2.png)
+![Demo0](Demo/demo3.png) ![Demo0](Demo/demo4.png)
 
-Charts are from [Charts](https://github.com/danielgindi/Charts).
+
+Charts are from [here](https://github.com/danielgindi/Charts).
 
 ## Data
 I used [Open Disease Data](https://disease.sh) for world total data, US historical data, US total data, [The Covid Tracking Project](https://covidtracking.com) for US states data and historical data.
