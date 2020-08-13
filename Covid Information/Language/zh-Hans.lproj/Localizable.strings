@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  Covid Information
+
+  Created by Yuanrong Han on 8/10/20.
+  Copyright © 2020 Rex_han. All rights reserved.
+*/
+"Summary" = "概况";
+"World" = "全球";
+"Case" = "病例";
+"Recovered" = "治愈";
+"Deaths" = "死亡";
+"United States" = "美国";
+"Update" = "更新于 ";
+"USA" = "美国";
+"Brazil" = "巴西";
+"India" = "印度";
+"State" = "州/地区";
+"State Tableview title" = "各州概况";
+"Reset Zoom" = "还原缩放";
+"Other Countries" = "其他国家";
+"Other States" = "其他州";
+"Cumulative Cases" = "累计病例";
+"New Cases" = "新增病例";
+"Cumulative Deaths" = "累计死亡";
+"New Deaths" = "新增死亡";
+"AL" = "阿拉巴马";
+"AK" = "阿拉斯加";
+"AS" = "美属萨摩亚";
+"AZ" = "亚利桑那";
+"AR" = "阿肯色";
+"CA" = "加利福尼亚";
+"CO" = "科罗拉多";
+"CT" = "康涅狄格";
+"DE" = "特拉华";
+"DC" = "哥伦比亚特区";
+"FL" = "佛罗里达";
+"GA" = "乔治亚";
+"GU" = "关岛";
+"HI" = "夏威夷";
+"ID" = "爱达荷";
+"IL" = "伊利诺伊斯";
+"IN" = "印第安纳";
+"IA" = "爱荷华";
+"KS" = "堪萨斯";
+"KY" = "肯塔基";
+"LA" = "路易斯安那";
+"ME" = "缅因";
+"MD" = "马里兰";
+"MA" = "马萨诸塞";
+"MI" = "密歇根";
+"MN" = "明尼苏达";
+"MS" = "密西西比";
+"MO" = "密苏里";
+"MT" = "蒙大拿";
+"NE" = "内布拉斯加";
+"NV" = "内华达";
+"NH" = "新罕布什尔";
+"NJ" = "新泽西";
+"NM" = "新墨西哥州";
+"NY" = "纽约";
+"NC" = "北卡罗来纳";
+"ND" = "北达科他";
+"MP" = "北马里亚纳群岛";
+"OH" = "俄亥俄";
+"OK" = "俄克拉荷马";
+"OR" = "俄勒冈";
+"PA" = "宾夕法尼亚";
+"PR" = "波多黎各";
+"RI" = "罗德岛";
+"SC" = "南卡罗莱纳";
+"SD" = "南达科他";
+"TN" = "田纳西";
+"TX" = "德克萨斯";
+"UT" = "犹他";
+"VT" = "佛蒙特";
+"VI" = "美属维尔京群岛";
+"VA" = "佛吉尼亚";
+"WA" = "华盛顿";
+"WV" = "西弗吉尼亚";
+"WI" = "威斯康星";
+"WY" = "怀俄明";
+"N/A" = "无数据";

@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  Covid Information
+
+  Created by Yuanrong Han on 8/10/20.
+  Copyright © 2020 Rex_han. All rights reserved.
+*/
+"Summary" = "Summary";
+"World" = "World";
+"Case" = "Case";
+"Recovered" = "Recovered";
+"Deaths" = "Deaths";
+"United States" = "United States";
+"Update" = "Updated on ";
+"USA" = "USA";
+"Brazil" = "Brazil";
+"India" = "India";
+"State" = "State";
+"State Tableview title" = "State";
+"Reset Zoom" = "Reset Zoom";
+"Other Countries" = "Other";
+"Other States" = "Other";
+"Cumulative Cases" = "Cumulative Cases";
+"New Cases" = "New Cases";
+"Cumulative Deaths" = "Cumulative Deaths";
+"New Deaths" = "New Deaths";
+"AL" = "Alabama";
+"AK" = "Alaska";
+"AS" = "American Samoa";
+"AZ" = "Arizona";
+"AR" = "Arkansas";
+"CA" = "California";
+"CO" = "Colorado";
+"CT" = "Connecticut";
+"DE" = "Delaware";
+"DC" = "District of Columbia";
+"FL" = "Florida";
+"GA" = "Georgia";
+"GU" = "Guam";
+"HI" = "Hawaii";
+"ID" = "Idaho";
+"IL" = "Illinois";
+"IN" = "Indiana";
+"IA" = "Iowa";
+"KS" = "Kansas";
+"KY" = "Kentucky";
+"LA" = "Louisiana";
+"ME" = "Maine";
+"MD" = "Maryland";
+"MA" = "Massachusetts";
+"MI" = "Michigan";
+"MN" = "Minnesota";
+"MS" = "Mississippi";
+"MO" = "Missouri";
+"MT" = "Montana";
+"NE" = "Nebraska";
+"NV" = "Nevada";
+"NH" = "New Hampshire";
+"NJ" = "New Jersey";
+"NM" = "New Mexico";
+"NY" = "New York";
+"NC" = "North Carolina";
+"ND" = "North Dakota";
+"MP" = "Northern Mariana Islands";
+"OH" = "Ohio";
+"OK" = "Oklahoma";
+"OR" = "Oregon";
+"PA" = "Pennsylvania";
+"PR" = "Puerto Rico";
+"RI" = "Rhode Island";
+"SC" = "South Carolina";
+"SD" = "South Dakota";
+"TN" = "Tennessee";
+"TX" = "Texas";
+"UT" = "Utah";
+"VT" = "Vermont";
+"VI" = "Virgin Islands";
+"VA" = "Virginia";
+"WA" = "Washington";
+"WV" = "West Virginia";
+"WI" = "Wisconsin";
+"WY" = "Wyoming";
+"N/A" = "N/A";
